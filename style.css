@@ -476,3 +476,39 @@
     position: absolute;
   }
   
+
+ .form-section {
+    position: abosulte;
+    background: #6070FF;
+    border-top-left-radius: 50px;
+    margin-top: 60px;
+    font-family: 'Poppins' sans-serif;
+    font-style: normal;
+  }
+
+  .form-div  h3 {
+    text-align: center;
+    padding-top: 60px;
+    padding-left: 10px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    color: #ffffff;
+  }
+
+  .form-div p {
+      
+font-weight: 200;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+color: #ebebff;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    padding: 10px 20px;
+  }
